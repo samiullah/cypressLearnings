@@ -1,0 +1,26 @@
+[
+  
+        [
+            {
+            "name":"sam",
+            "personalInfo": {
+                "age":21,
+                "pan":"ehyps"
+            }
+    
+        },
+    
+        {
+            "name":"ram",
+            "personalInfo": {
+                "age":22,
+                "pan":"ehypsss"
+            }
+    
+        }
+    
+    
+        ]
+    
+    
+    ]
