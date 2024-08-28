@@ -2,7 +2,7 @@
   "name": "cypressdemo",
   "version": "1.0.0",
   "description": "this is my first cypress demo project",
-  "main": "index.js",
+  "main": "James-JS/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
